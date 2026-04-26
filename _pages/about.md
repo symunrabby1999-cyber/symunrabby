@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Statistics</p>
+  <p>Department of Statistics</p>
   <p>Bangladesh Agricultural University</p>
   <p>Mymensingh-2202, Bangladesh</p>
 
@@ -26,6 +26,5 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-biography: Hi, 
+ 
 I am a graduate in Statistics from Bangladesh Agricultural University (BAU), Mymensingh, with strong foundations in descriptive statistics, statistical inference, regression analysis, multivariate analysis, and time series analysis. My research focuses on bioinformatics and machine learning, particularly in cancer genomics and biomarker identification using advanced computational methods. To date, I have published 3 peer-reviewed articles, contributed to several funded research projects under BAURES and the Research & Extension Center at JKKNIU, and presented my work at national and international conferences. I am proficient in R, Python, SPSS, and SQL, with hands-on experience in real-world data analysis and visualization. I am a hardworking and confident professional, currently seeking opportunities in data analysis where I can apply my statistical expertise and research experience to drive meaningful insights from data.
